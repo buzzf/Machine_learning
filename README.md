@@ -1,7 +1,7 @@
 # Machine_learning
 #### 本篇谨用来纪录Machine Learning学习中所用到的算法，相关库的用法，大部分代码文件都是ipython格式.
 #### 常用库包括  
-#### 基础库 
+#### *基础库* 
 * matplotlib
 * pandas
 * numpy
@@ -9,7 +9,7 @@
 * scipy
 * pandas_profiling
 * missingno
-#### 专业库
+#### *专业库*
 * sklearn
 * xgboost
 * gensim
